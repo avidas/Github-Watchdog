@@ -1,7 +1,7 @@
 Github Watchdog
 ===============
 
-Sends an email notification if you have not committed in the last X hours or longer than a day. Keep your Github Contributions green!
+Sends an email notification if you have not pushed to Github in the last X hours or longer than a day. Keep your Github Contributions green!
 
 Uses mandrill to send email currently but you can use any provider.
 
